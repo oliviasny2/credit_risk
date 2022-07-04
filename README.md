@@ -33,3 +33,11 @@ The purpose of this analysis is to provide good machine learning models to predi
 * Sensitivity: High-Risk - 61%; Low-Risk - 70%
 * Interpretation: This sample is very good at predicting the good credit risk, but very poor at predicting the poor credit risks (Precision). This sample also has a moderate ability of predicting the good credit risks and the bad credit risks (Sensitivity).
 
+### Random Forest Classifier
+* Balanced Accuracy Score: 66.06%
+* Precision: High-Risk - 74%; Low-Risk - 100%
+* Sensitivity: High-Risk - 100%; Low-Risk - 32%
+* Interpretation: This sample is very good at predicting the good credit risk, and moderate at predicting the bad credit risks (Precision). This sample also has a very good ability of predicting the poor credit risks and poorly predicts the good credit risks (Sensitivity). 
+
+
+
