@@ -39,5 +39,6 @@ The purpose of this analysis is to provide good machine learning models to predi
 * Sensitivity: High-Risk - 100%; Low-Risk - 32%
 * Interpretation: This sample is very good at predicting the good credit risk, and moderate at predicting the bad credit risks (Precision). This sample also has a very good ability of predicting the poor credit risks and poorly predicts the good credit risks (Sensitivity). 
 
-
+## Summary
+Most of these methods provide moderately low predictions based on the calculations. Of the methods utilized, the combination sampling (SMOTEENN) method was best, so that is the one I would recommed. Despite having a lower accuracy score, I suspect there is some error in the random forest classifier method, exhibited by the odd fluctuation in precision and sensitivity rates.
 
