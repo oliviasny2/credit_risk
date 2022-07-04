@@ -5,4 +5,7 @@ The purpose of this analysis is to provide good machine learning models to predi
 
 ## Results
 
+### Naive Random Sampling
+
+* Balanced Accuracy Score: 0.6293939
 * 
